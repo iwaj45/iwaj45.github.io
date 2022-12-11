@@ -1,0 +1,16 @@
+{
+  "name": "PWAテスト",
+  "short_name": "ICS",
+  "start_url": "pwa_test.html",
+  "icons": [
+    {
+      "src": "aikon.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#3F51B5",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
